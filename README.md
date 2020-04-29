@@ -21,4 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 - [image_picker: ^0.6.5+2](https://pub.dev/packages/image_picker)
 
 ## DEMO
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/galangajisusanto/news-app/blob/master/demo/demo.mp4)
